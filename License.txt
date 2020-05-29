@@ -7,3 +7,12 @@ DefaultSetupDir=CD_SPRO\QBooks
 InstallID=197120
 LicenseNumber=649923434594077
 RegNumber=261649
+
+
+[acct]
+RegistryName=accountant
+PreferredSetupDir=CD_SPRO\QBooks
+DefaultSetupDir=CD_SPRO\QBooks
+InstallID=208795
+LicenseNumber=348132612906358
+RegNumber=330854

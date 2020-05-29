@@ -1,0 +1,9 @@
+# QB Premier
+
+[pre3_conv]
+RegistryName=superpro
+PreferredSetupDir=CD_SPRO\QBooks
+DefaultSetupDir=CD_SPRO\QBooks
+InstallID=197120
+LicenseNumber=649923434594077
+RegNumber=261649
